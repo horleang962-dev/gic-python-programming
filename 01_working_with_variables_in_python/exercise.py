@@ -29,8 +29,8 @@ print(age)
 print(city)
 
 #The computer always remembers the latest value!
- x = 10
- x = 90
- print(x) #output 90
+ #x = 10
+ #x = 90
+ #print(x) #output
 
 #6
